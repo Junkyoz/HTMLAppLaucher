@@ -1,3 +1,3 @@
 # HTMLAppLaucher
 
-<span style="font-size:18px;">**Setup**</span>
+<span style="font-size:30px;">**Setup**</span>
