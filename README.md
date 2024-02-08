@@ -1,3 +1,7 @@
 # HTMLAppLaucher
 
-<span style="font-size:30px;">**Setup**</span>
+**Setup:**
+***(v1.0)***
+
+Download one of the releases
+Extract the .zip file
