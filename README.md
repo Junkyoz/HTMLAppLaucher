@@ -6,6 +6,9 @@ I will update this as much as i can
 
 ___
 
+**Dislclaimer**
+
+___
 
 **Setup:**
 ***(v1.0)***
