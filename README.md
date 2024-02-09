@@ -13,5 +13,5 @@ ___
 Download one of the releases \
 Extract the .zip file \
 Put your HTML, CSS and JavaScript into the html/code directory \
-Run the browser.exe / browser.py file 
+Run the browser.exe / browser.py file \
 You can change the the width, height and name of the window by chaning the width height and name file in the html/settings directory
